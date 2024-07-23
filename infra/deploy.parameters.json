@@ -6,5 +6,5 @@
   "GRAPHRAG_LLM_DEPLOYMENT_NAME": "gpt-4-deployed",
   "GRAPHRAG_LLM_MODEL": "gpt-4",
   "LOCATION": "eastus",
-  "RESOURCE_GROUP": "kzhg-graphai"
+  "RESOURCE_GROUP": "kzhg-graphrag"
 }
