@@ -5,6 +5,6 @@
   "GRAPHRAG_EMBEDDING_MODEL": "text-embedding-ada-002",
   "GRAPHRAG_LLM_DEPLOYMENT_NAME": "gpt-4",
   "GRAPHRAG_LLM_MODEL": "gpt-4o",
-  "LOCATION": "eastus",
+  "LOCATION": "westus",
   "RESOURCE_GROUP": "kzhg-grag"
 }
