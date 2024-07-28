@@ -6,5 +6,5 @@
   "GRAPHRAG_LLM_DEPLOYMENT_NAME": "gpt-4",
   "GRAPHRAG_LLM_MODEL": "gpt-4o",
   "LOCATION": "eastus",
-  "RESOURCE_GROUP": "kzhg-grag001"
+  "RESOURCE_GROUP": "kzhg-grag"
 }
