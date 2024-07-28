@@ -1,10 +1,10 @@
 {
   "GRAPHRAG_API_BASE": "https://astra001.openai.azure.com",
   "GRAPHRAG_API_VERSION": "2023-03-15-preview",
-  "GRAPHRAG_EMBEDDING_DEPLOYMENT_NAME": "text-embedding-ada-002-deployed",
+  "GRAPHRAG_EMBEDDING_DEPLOYMENT_NAME": "text-embedding-ada-002",
   "GRAPHRAG_EMBEDDING_MODEL": "text-embedding-ada-002",
-  "GRAPHRAG_LLM_DEPLOYMENT_NAME": "gpt-4-deployed",
-  "GRAPHRAG_LLM_MODEL": "gpt-4",
+  "GRAPHRAG_LLM_DEPLOYMENT_NAME": "gpt-4",
+  "GRAPHRAG_LLM_MODEL": "gpt-4o",
   "LOCATION": "eastus",
-  "RESOURCE_GROUP": "kzhg-graphrag"
+  "RESOURCE_GROUP": "kzhg-grag"
 }
