@@ -30,7 +30,7 @@ param systemOsDiskSizeGB int = 128
 param systemNodeCount int = 1
 
 @description('The size of the system Virtual Machine.')
-param systemVMSize string = 'standard_d4s_v2'
+param systemVMSize string = 'standard_d4s_v4'
 
 @description('The number of nodes for the graphrag node pool.')
 @minValue(1)
